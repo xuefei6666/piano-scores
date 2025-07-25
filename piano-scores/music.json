@@ -1,0 +1,62 @@
+[
+  {
+    "title": "天空之城 - Carrying You",
+    "type": "动漫",
+    "cover": "covers/skycastle.jpg",
+    "pdf": "pdf/Carrying_You.pdf"
+  },
+  {
+    "title": "千与千寻 - Always With Me",
+    "type": "动漫",
+    "cover": "covers/chihiro.jpg",
+    "pdf": "pdf/Always_With_Me.pdf"
+  },
+  {
+    "title": "你的名字 - 前前前世",
+    "type": "动漫",
+    "cover": "covers/kiminonawa.jpg",
+    "pdf": "pdf/Zenzenzense.pdf"
+  },
+  {
+    "title": "鬼灭之刃 - 红莲华",
+    "type": "动漫",
+    "cover": "covers/gurenge.jpg",
+    "pdf": "pdf/Gurenge.pdf"
+  },
+  {
+    "title": "周杰伦 - 晴天",
+    "type": "流行",
+    "cover": "covers/qingtian.jpg",
+    "pdf": "pdf/QingTian.pdf"
+  },
+  {
+    "title": "周杰伦 - 青花瓷",
+    "type": "流行",
+    "cover": "covers/qinghuaci.jpg",
+    "pdf": "pdf/QingHuaCi.pdf"
+  },
+  {
+    "title": "初音未来 - 千本樱",
+    "type": "动漫",
+    "cover": "covers/senbonzakura.jpg",
+    "pdf": "pdf/Senbonzakura.pdf"
+  },
+  {
+    "title": "火影忍者 - 青鸟",
+    "type": "动漫",
+    "cover": "covers/bluebird.jpg",
+    "pdf": "pdf/BlueBird.pdf"
+  },
+  {
+    "title": "宫崎骏 - 风之谷",
+    "type": "动漫",
+    "cover": "covers/nausicaa.jpg",
+    "pdf": "pdf/Nausicaa.pdf"
+  },
+  {
+    "title": "秒速五厘米 - One More Time One More Chance",
+    "type": "动漫",
+    "cover": "covers/5cm.jpg",
+    "pdf": "pdf/OneMoreTime.pdf"
+  }
+]
